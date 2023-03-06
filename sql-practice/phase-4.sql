@@ -2,7 +2,7 @@
 .print
 .print =================    PHASE4      ========================
 .print
-.open the-ofFice.db
+.open the-office.db
 DROP TABLE IF EXISTS employees;
 DROP TABLE IF EXISTS reviews;
 DROP TABLE IF EXISTS parties;
